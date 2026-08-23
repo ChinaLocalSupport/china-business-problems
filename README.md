@@ -2,7 +2,7 @@
 
 ![China Business Assistance](1.jpg)
 
-## 🌏 China Business Assistance for People Doing Business With China
+## 🌏 Doing Business With China
 
 > 💭 I can find a supplier.
 >
