@@ -1239,3 +1239,8 @@ Something changes
 I need evidence
         ↓
 I need someone in China
+
+
+[China services](https://visaservice.icu/) ·
+[Business Assistance](https://chinalocalsupport.github.io/china-business-assistance/) ·
+[China Business Trade Agent](https://chinalocalsupport.github.io/china-business-trade-agent/)
