@@ -1,6 +1,8 @@
 # Find a business partner you can trust.
 
-## 🌏 China Business Assistance for People Doing Business with China
+![China Business Assistance](1.jpg)
+
+## 🌏 China Business Assistance for People Doing Business With China
 
 > 💭 I can find a supplier.
 >
@@ -10,13 +12,17 @@
 >
 > 💭 I can get a quotation.
 >
-> 💭 I can even find someone willing to sell it to me.
+> 💭 I can send messages.
+>
+> 💭 I can order samples.
+>
+> 💭 I can even make a payment.
 >
 > 💭 But can I find a business partner I can actually trust?
 
 ---
 
-## 🧠 Everything Looks Fine
+# 🧠 Everything Looks Fine
 
 💭 The company has a website.
 
@@ -26,15 +32,13 @@
 
 💭 The quotation looks reasonable.
 
-💭 The factory has been operating for years.
-
 💭 The supplier says they are a manufacturer.
-
-💭 They sent me certificates.
 
 💭 They sent me factory photos.
 
 💭 They sent me videos.
+
+💭 They sent me certificates.
 
 💭 They answered my questions.
 
@@ -48,9 +52,9 @@
 
 💭 We agreed on the delivery date.
 
-💭 Everything seems fine.
+💭 Everything seems normal.
 
-**And yet I still have one question:**
+And yet I still have one question:
 
 > 💭 **What exactly do I know, and what am I simply assuming?**
 
@@ -58,25 +62,31 @@
 
 # 🔎 What Have I Actually Verified?
 
-💭 I verified the company exists.
+💭 I verified that the company exists.
 
 💭 But did I verify that the company I found is the company I am actually dealing with?
 
 💭 I verified the salesperson.
 
-💭 But did I verify that the salesperson actually represents the company?
+💭 But does that person actually represent the company?
 
 💭 I verified the company name.
 
-💭 But does the payment account belong to the same company?
+💭 Does the payment account belong to the same company?
 
 💭 I verified the factory address.
 
-💭 But is that actually where my products will be manufactured?
+💭 Is that really where my products will be manufactured?
 
 💭 I verified the supplier.
 
-💭 But is the supplier the manufacturer, a trading company, an agent, or another intermediary?
+💭 Is the supplier actually the manufacturer?
+
+💭 Or is it a trading company?
+
+💭 An agent?
+
+💭 Another intermediary?
 
 💭 I saw a factory.
 
@@ -88,11 +98,15 @@
 
 💭 I received documents.
 
-💭 But do those documents actually apply to my exact product?
+💭 Do those documents actually apply to my exact product?
 
 💭 I received certificates.
 
-💭 But are they current, relevant, and connected to the product I am buying?
+💭 Are they current?
+
+💭 Are they relevant?
+
+💭 Are they connected to the product I am buying?
 
 💭 I found positive information online.
 
@@ -101,6 +115,8 @@
 ---
 
 # 🏭 Is This Really My Factory?
+
+![Supplier and Factory Verification](2.jpg)
 
 💭 The supplier says, "We are the factory."
 
@@ -134,6 +150,12 @@
 
 💭 Will I still receive the same attention and quality?
 
+💭 What happens if production is moved somewhere else?
+
+💭 What happens if another factory becomes involved?
+
+💭 What happens if I cannot physically visit the factory myself?
+
 ---
 
 # 📋 I Don't Just Need a Supplier
@@ -152,11 +174,15 @@
 
 💭 I need a supplier whose business model makes sense for my order size.
 
-💭 I need to know whether I am talking to the manufacturer or simply another layer in the supply chain.
+💭 I need to know whether I am talking to the manufacturer or another layer in the supply chain.
 
 💭 I don't want to choose a supplier simply because their website looks better.
 
 💭 I don't want to choose a supplier simply because their price is lower.
+
+💭 I don't want to choose a supplier simply because someone online recommended them.
+
+💭 I want evidence that is relevant to my actual order.
 
 ---
 
@@ -173,6 +199,8 @@
 💭 Are they quoting the same material?
 
 💭 Are they quoting the same dimensions?
+
+💭 Are they quoting the same components?
 
 💭 Are they quoting the same packaging?
 
@@ -202,7 +230,7 @@
 
 💭 I don't just want the factory price.
 
-💭 I want to know my landed cost.
+💭 I want to understand my landed cost.
 
 💭 I want to know what I will actually pay.
 
@@ -218,7 +246,7 @@
 
 💭 I want to know whether a $10,000 order can become a $13,000 order after everything is included.
 
-💭 I don't want to discover the real price after the shipment has already left China.
+💭 I don't want to discover the real cost after the shipment has already left China.
 
 ---
 
@@ -230,23 +258,27 @@
 
 💭 I don't want to spend money on 9,000 units I cannot sell.
 
-💭 I don't know whether the MOQ is genuinely fixed.
+💭 Is the MOQ genuinely fixed?
 
-💭 I don't know whether another factory would accept a smaller order.
+💭 Could another factory accept a smaller order?
 
-💭 I don't know whether a different material or production process would reduce the MOQ.
+💭 Could another production method reduce the MOQ?
 
-💭 I don't know whether I should negotiate.
+💭 Should I negotiate?
 
-💭 I don't know whether I should find another factory.
+💭 Should I find another factory?
+
+💭 What will my real inventory risk be?
 
 ---
 
 # 🧪 I Need a Sample
 
+![Product Samples and Quality](3.jpg)
+
 💭 I want to see the product before I place a large order.
 
-💭 I want to know what exactly I am approving.
+💭 I want to know exactly what I am approving.
 
 💭 I want the sample to represent the actual production process.
 
@@ -280,9 +312,11 @@
 
 💭 What happens if a different worker produces the next batch?
 
-💭 What happens if the factory decides that a small difference is acceptable?
+💭 What happens if the factory considers a small difference acceptable?
 
 💭 What exactly defines "the same product"?
+
+💭 What exactly defines "acceptable quality"?
 
 ---
 
@@ -332,15 +366,19 @@
 
 💭 Does "OK" mean they agree with every specification?
 
-💭 Does "OK" mean they simply want to continue the conversation?
+💭 Does "OK" simply mean they want to continue the conversation?
 
 💭 I don't want a translation that sounds correct but changes the meaning.
 
 💭 I need technical communication to survive translation, negotiation, production, and inspection.
 
+💭 I need important details to remain clear when communication moves between languages.
+
 ---
 
-# 🔐 I Have to Send the Money
+# 💳 The Moment Before I Pay
+
+![Payment, Production and Inspection](4.jpg)
 
 💭 The sample is approved.
 
@@ -350,7 +388,7 @@
 
 💭 The supplier is waiting for my deposit.
 
-💭 Maybe the order is only $2,000.
+💭 Maybe the order is $2,000.
 
 💭 Maybe it is $20,000.
 
@@ -368,7 +406,7 @@
 
 💭 Does the beneficiary make sense?
 
-💭 Is there anything unusual about the payment instructions?
+💭 Is anything unusual about the payment instructions?
 
 💭 What evidence should I keep before the money leaves my account?
 
@@ -508,7 +546,7 @@
 
 💭 What happens if production takes 27 days?
 
-💭 What happens if it takes 35?
+💭 What happens if it takes 35 days?
 
 💭 What happens if the factory rushes the order to meet the deadline?
 
@@ -612,7 +650,37 @@
 
 ---
 
-# 🚢 DDP Sounds Simple
+# 🚢 Shipping Is Not Just Shipping
+
+![Shipping, Customs and Documents](5.jpg)
+
+💭 The goods are ready.
+
+💭 Now I need to move them from China to my country.
+
+💭 Which shipping method makes sense?
+
+💭 Who is responsible for the shipment?
+
+💭 Who handles the export process?
+
+💭 Who handles the import process?
+
+💭 Who pays which charges?
+
+💭 Which documents do I need?
+
+💭 Which documents will the supplier provide?
+
+💭 What happens if the shipment is delayed?
+
+💭 What happens if something is damaged?
+
+💭 What happens if the declared information creates a problem?
+
+---
+
+# 🚚 DDP Sounds Simple
 
 💭 The supplier says, "We can ship DDP."
 
@@ -642,7 +710,7 @@
 
 ---
 
-# 🚚 EXW / FOB / CIF / DAP / DDP
+# 🚢 EXW / FOB / CIF / DAP / DDP
 
 💭 I know these terms exist.
 
@@ -923,85 +991,83 @@ But I cannot automatically see:
 
 ---
 
-# 💳 The Moment Before I Pay
+# 🌏 The Problem With Distance
 
-> 💭 The supplier looks legitimate.
->
-> 💭 The price looks reasonable.
->
-> 💭 The sample looks good.
->
-> 💭 We agreed on the specifications.
->
-> 💭 Production is ready to begin.
->
-> 💭 Everything seems normal.
->
-> 💭 I look at the amount again.
->
-> **$2,000.**
->
-> **$20,000.**
->
-> **$200,000.**
->
-> 💭 And suddenly I have one question:
->
-> # **What exactly have I verified?**
+![ChinaLocalSupport — Local Assistance in China](6.jpg)
 
----
+💭 I am not in China.
 
-# 📦 The Scale Changes Everything
+💭 My supplier is in China.
 
-💭 50 units is one thing.
+💭 My factory is in China.
 
-💭 500 units is different.
+💭 My warehouse is in China.
 
-💭 5,000 units is different again.
+💭 My shipment starts in China.
 
-💭 20,000 units sitting in a warehouse is no longer a small mistake.
+💭 The people who can physically check these things are in China.
 
-💭 2,000 kg of the wrong product is not a simple inconvenience.
+💭 I can send messages.
 
-💭 A container full of goods that cannot be sold is not just a quality issue.
+💭 I can make calls.
 
-💭 A delayed shipment can become a stockout.
+💭 I can use video.
 
-💭 A specification mistake can become thousands of defective units.
+💭 I can use AI.
 
-💭 A small misunderstanding can become a very large problem when multiplied by quantity.
+💭 But sometimes I need someone who can actually go there.
 
 ---
 
-# ⏳ The Cost of Finding Out Too Late
+# 🚗 Sometimes I Don't Need a Huge Sourcing Operation
 
-💭 Maybe nothing is wrong.
+💭 Maybe I don't need someone to manage my entire procurement process.
 
-💭 That is possible.
+💭 Maybe I only need someone to verify one supplier.
 
-💭 But when should I find out?
+💭 Maybe I only need someone to visit one factory.
 
-Before payment?
+💭 Maybe I only need someone to inspect one order.
 
-Before production?
+💭 Maybe I only need someone to check one warehouse.
 
-Before mass production?
+💭 Maybe I only need someone to receive something.
 
-Before inspection?
+💭 Maybe I only need someone to deliver something.
 
-Before shipment?
+💭 Maybe I only need someone to make a local phone call.
 
-After customs?
+💭 Maybe I only need someone to speak to a Chinese company face to face.
 
-After delivery?
-
-After my customers receive the product?
-
-💭 I don't want to discover a problem at the most expensive possible stage.
+💭 Maybe I only need someone to check one thing that I cannot check from another country.
 
 ---
 
-# 🧠 The Questions I Would Ask Before I Trust a Supplier
+# 🧩 What I May Need
+
+| Situation | What I may actually need |
+| :- | :- |
+| 🔎 Supplier verification | Someone to investigate and verify a company |
+| 🏭 Factory verification | Someone to visit and confirm what is actually there |
+| 📸 Local evidence | Someone to photograph or record a specific situation |
+| 🔬 Product inspection | Someone to inspect goods before shipment |
+| 📦 Quantity verification | Someone to check cartons, units, labels, and packaging |
+| 🧪 Sample verification | Someone to compare actual goods against requirements |
+| 🏢 Warehouse check | Someone to verify what is physically stored |
+| 📞 Local communication | Someone to communicate directly with a Chinese company |
+| 🗣️ Business communication | Someone who understands the local business context |
+| 🚗 Local pickup | Someone to receive or collect something |
+| 🚚 Local delivery | Someone to deliver something locally |
+| 🧾 Document assistance | Someone to help check or coordinate local documentation |
+| 💳 Payment verification | Someone to help verify information before payment |
+| 🛠️ Local problem solving | Someone to investigate a problem on the ground |
+| 🔄 Supplier transition | Someone to help coordinate a change of supplier |
+| 🧰 Tooling / samples | Someone to help locate, receive, inspect, or coordinate physical items |
+| 🌏 Other China-related tasks | Someone to determine whether the problem can be solved locally |
+
+---
+
+# 🧠 Before I Trust a Supplier
 
 💭 Who exactly am I buying from?
 
@@ -1039,7 +1105,7 @@ After my customers receive the product?
 
 ---
 
-# 🔍 Before I Send the Money
+# 💳 Before I Send the Money
 
 Stop for a moment.
 
@@ -1071,89 +1137,53 @@ Stop for a moment.
 
 ---
 
-# 🚗 Sometimes I Don't Need a Sourcing Company
+# ⏳ The Cost of Finding Out Too Late
 
-💭 Maybe I don't need someone to manage my entire procurement process.
+💭 Maybe nothing is wrong.
 
-💭 Maybe I only need someone to verify one supplier.
+💭 That is possible.
 
-💭 Maybe I only need someone to visit one factory.
+💭 But when should I find out?
 
-💭 Maybe I only need someone to inspect one order.
+Before payment?
 
-💭 Maybe I only need someone to check one warehouse.
+Before production?
 
-💭 Maybe I only need someone to receive something.
+Before mass production?
 
-💭 Maybe I only need someone to deliver something.
+Before inspection?
 
-💭 Maybe I only need someone to make a local phone call.
+Before shipment?
 
-💭 Maybe I only need someone to speak to a Chinese company face to face.
+After customs?
 
-💭 Maybe I only need someone to check one thing that I cannot check from another country.
+After delivery?
 
----
+After my customers receive the product?
 
-# 🌏 Distance Is the Problem
-
-💭 I am not in China.
-
-💭 My supplier is in China.
-
-💭 My factory is in China.
-
-💭 My warehouse is in China.
-
-💭 My shipment starts in China.
-
-💭 The people who can physically check these things are in China.
-
-💭 I can send messages.
-
-💭 I can make calls.
-
-💭 I can use video.
-
-💭 I can use AI.
-
-💭 But sometimes I need someone who can actually go there.
+💭 I don't want to discover a problem at the most expensive possible stage.
 
 ---
 
-# 🤝 ChinaLocalSupport
+# 📦 The Scale Changes Everything
 
-ChinaLocalSupport is built around that gap.
+💭 50 units is one thing.
 
-Not every international business problem requires a large sourcing operation.
+💭 500 units is different.
 
-Sometimes it requires something much simpler:
+💭 5,000 units is different again.
 
-**Someone in China who can actually check, communicate, visit, inspect, receive, deliver, coordinate, or handle a local task.**
+💭 20,000 units sitting in a warehouse is no longer a small mistake.
 
----
+💭 2,000 kg of the wrong product is not a simple inconvenience.
 
-# 🧩 What I May Need
+💭 A container full of goods that cannot be sold is not just a quality issue.
 
-| Situation | What I may actually need |
-| :- | :- |
-| 🔎 Supplier verification | Someone to investigate and verify a company |
-| 🏭 Factory verification | Someone to visit and confirm what is actually there |
-| 📸 Local evidence | Someone to photograph or record a specific situation |
-| 🔬 Product inspection | Someone to inspect goods before shipment |
-| 📦 Quantity verification | Someone to check cartons, units, labels, and packaging |
-| 🧪 Sample verification | Someone to compare actual goods against requirements |
-| 🏢 Warehouse check | Someone to verify what is physically stored |
-| 📞 Local communication | Someone to communicate directly with a Chinese company |
-| 🗣️ Business communication | Someone who understands the local business context |
-| 🚗 Local pickup | Someone to receive or collect something |
-| 🚚 Local delivery | Someone to deliver something locally |
-| 🧾 Document assistance | Someone to help check or coordinate local documentation |
-| 💰 Payment verification | Someone to help verify information before payment |
-| 🛠️ Local problem solving | Someone to investigate a problem on the ground |
-| 🔄 Supplier transition | Someone to help coordinate a change of supplier |
-| 🧰 Tooling / samples | Someone to help locate, receive, inspect, or coordinate physical items |
-| 🌏 Other China-related tasks | Someone to determine whether the problem can be solved locally |
+💭 A delayed shipment can become a stockout.
+
+💭 A specification mistake can become thousands of defective units.
+
+💭 A small misunderstanding can become a very large problem when multiplied by quantity.
 
 ---
 
