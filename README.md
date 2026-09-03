@@ -1244,8 +1244,8 @@ I need someone in China
 
 
 [China services](https://visaservice.icu/) ·
-[Business Assistance](https://chinalocalsupport.github.io/china-business-assistance/) ·
-[Business Trade Agent](https://chinalocalsupport.github.io/china-business-trade-agent/)·
+[Business Assistance](https://chinamanufacturers.github.io/chinabusinessassistance/) ·
+[Business Trade Agent](https://chinamanufacturers.github.io/chinabusinesstradeagent/)·
 [facebook](https://www.facebook.com/profile.php?id=61592631508367)
 
 
